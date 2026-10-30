@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-10-25T22:00:00Z",
+  "version": 2,
+  "updatedAt": "2026-10-30T22:00:00Z",
   "disclaimer": "Figures here are background from public labeling and research descriptions. They are not medical advice, not a dose for you, and not a protocol. Approved medicines follow their own prescribing information. Many entries are unapproved, and human dosing is often not established. Commonly discussed ranges vary; verify independently.",
   "categories": [
     {
@@ -51,10 +51,33 @@
   ],
   "peptides": [
     {
+      "id": "test-peptide",
+      "name": "Test Peptide",
+      "aliases": [],
+      "categories": [
+        "gh-secretagogues",
+        "fat-loss"
+      ],
+      "summary": "Temporary test entry to confirm remote updates work. Will be removed.",
+      "mechanism": "Test only.",
+      "researchStatus": "Test only.",
+      "dosingNotes": "Test only.",
+      "reconstitutionNotes": "Test only.",
+      "halfLifeNotes": "Test only.",
+      "safetyNotes": "Test only."
+    },
+    {
       "id": "tesamorelin",
       "name": "Tesamorelin",
-      "aliases": ["Egrifta", "Egrifta SV", "TH9507"],
-      "categories": ["gh-secretagogues", "fat-loss"],
+      "aliases": [
+        "Egrifta",
+        "Egrifta SV",
+        "TH9507"
+      ],
+      "categories": [
+        "gh-secretagogues",
+        "fat-loss"
+      ],
       "summary": "A synthetic analog of growth hormone-releasing hormone, stabilized against rapid breakdown.",
       "mechanism": "It acts on GHRH receptors in the pituitary and raises pulsatile growth hormone, with downstream effects on IGF-1. US approval is for reduction of excess abdominal fat in HIV-associated lipodystrophy, not for general fat loss or athletic use.",
       "researchStatus": "FDA-approved as Egrifta and Egrifta SV for a specific HIV-related indication. Other uses are outside that labeling.",
@@ -66,8 +89,12 @@
     {
       "id": "ipamorelin",
       "name": "Ipamorelin",
-      "aliases": ["Ipamorelin acetate"],
-      "categories": ["gh-secretagogues"],
+      "aliases": [
+        "Ipamorelin acetate"
+      ],
+      "categories": [
+        "gh-secretagogues"
+      ],
       "summary": "A selective ghrelin-receptor agonist studied as a growth-hormone secretagogue.",
       "mechanism": "It stimulates growth-hormone release from the pituitary. In preclinical comparisons it produced less cortisol and prolactin rise than older ghrelin mimetics such as GHRP-2 and GHRP-6. It is not a GHRH analog.",
       "researchStatus": "Not an FDA-approved medicine. Human therapeutic dosing is not established by a labeling authority.",
@@ -79,8 +106,15 @@
     {
       "id": "cjc-1295-no-dac",
       "name": "CJC-1295 without DAC",
-      "aliases": ["Mod GRF 1-29", "Modified GRF (1-29)", "CJC-1295 no DAC", "tetrasubstituted GRF"],
-      "categories": ["gh-secretagogues"],
+      "aliases": [
+        "Mod GRF 1-29",
+        "Modified GRF (1-29)",
+        "CJC-1295 no DAC",
+        "tetrasubstituted GRF"
+      ],
+      "categories": [
+        "gh-secretagogues"
+      ],
       "summary": "A short-acting modified growth hormone-releasing hormone fragment. Distinct from CJC-1295 with DAC.",
       "mechanism": "It is GRF(1-29) with amino-acid substitutions intended to slow enzymatic breakdown, so it still acts as a GHRH analog. Without the drug-affinity complex it does not bind albumin for a multi-day effect.",
       "researchStatus": "Not an FDA-approved medicine. It is often confused with the long-acting DAC form in casual writing.",
@@ -92,8 +126,14 @@
     {
       "id": "cjc-1295-dac",
       "name": "CJC-1295 with DAC",
-      "aliases": ["CJC-1295 DAC", "CJC-1295", "DAC-GRF"],
-      "categories": ["gh-secretagogues"],
+      "aliases": [
+        "CJC-1295 DAC",
+        "CJC-1295",
+        "DAC-GRF"
+      ],
+      "categories": [
+        "gh-secretagogues"
+      ],
       "summary": "A GHRH analog attached to a drug-affinity complex that binds albumin and prolongs the effect.",
       "mechanism": "The peptide stimulates GHRH receptors. The affinity complex keeps it in circulation, so growth hormone and IGF-1 can stay elevated for days after a dose rather than for minutes.",
       "researchStatus": "Not an FDA-approved medicine. A 2006 pharmacokinetic study in people reported a half-life of about 6 to 8 days and sustained GH and IGF-1 elevation after single doses.",
@@ -105,8 +145,15 @@
     {
       "id": "sermorelin",
       "name": "Sermorelin",
-      "aliases": ["Sermorelin acetate", "Geref", "GRF 1-29", "GHRH (1-29)"],
-      "categories": ["gh-secretagogues"],
+      "aliases": [
+        "Sermorelin acetate",
+        "Geref",
+        "GRF 1-29",
+        "GHRH (1-29)"
+      ],
+      "categories": [
+        "gh-secretagogues"
+      ],
       "summary": "The 1-29 amino-acid fragment of growth hormone-releasing hormone, the shortest sequence that retains full GHRH activity in classic work.",
       "mechanism": "It binds pituitary GHRH receptors and stimulates growth-hormone release. It is not the same molecule as CJC-1295 or tesamorelin.",
       "researchStatus": "It was FDA-approved as Geref for evaluation and treatment of some growth-hormone deficiency settings and was later discontinued. It is not a currently marketed approved product in the US.",
@@ -118,8 +165,13 @@
     {
       "id": "hexarelin",
       "name": "Hexarelin",
-      "aliases": ["Examorelin", "Hexarelin acetate"],
-      "categories": ["gh-secretagogues"],
+      "aliases": [
+        "Examorelin",
+        "Hexarelin acetate"
+      ],
+      "categories": [
+        "gh-secretagogues"
+      ],
       "summary": "A potent synthetic ghrelin-receptor agonist.",
       "mechanism": "It stimulates growth-hormone release and, unlike ipamorelin, is more often described as also affecting cortisol and prolactin. Repeated use is discussed as leading to a smaller growth-hormone response over time.",
       "researchStatus": "Not an FDA-approved medicine. Much of the human work is small endocrine studies rather than an approved regimen.",
@@ -131,8 +183,14 @@
     {
       "id": "ghrp-2",
       "name": "GHRP-2",
-      "aliases": ["Pralmorelin", "Growth hormone-releasing peptide 2", "KP-102"],
-      "categories": ["gh-secretagogues"],
+      "aliases": [
+        "Pralmorelin",
+        "Growth hormone-releasing peptide 2",
+        "KP-102"
+      ],
+      "categories": [
+        "gh-secretagogues"
+      ],
       "summary": "A ghrelin-receptor agonist. In Japan, pralmorelin has been used as a growth-hormone stimulation test.",
       "mechanism": "It prompts pituitary growth-hormone release and can also raise cortisol, prolactin, and appetite more than ipamorelin in comparative descriptions.",
       "researchStatus": "A diagnostic use exists in some countries. It is not an FDA-approved therapeutic for body composition or performance.",
@@ -144,8 +202,12 @@
     {
       "id": "ghrp-6",
       "name": "GHRP-6",
-      "aliases": ["Growth hormone-releasing peptide 6"],
-      "categories": ["gh-secretagogues"],
+      "aliases": [
+        "Growth hormone-releasing peptide 6"
+      ],
+      "categories": [
+        "gh-secretagogues"
+      ],
       "summary": "An earlier ghrelin mimetic, widely discussed and less selective than ipamorelin.",
       "mechanism": "It stimulates growth-hormone release via the ghrelin receptor and is particularly associated with hunger in descriptions of its effects.",
       "researchStatus": "Not an FDA-approved medicine.",
@@ -157,8 +219,14 @@
     {
       "id": "ibutamoren",
       "name": "Ibutamoren",
-      "aliases": ["MK-677", "MK677", "Oratrope"],
-      "categories": ["gh-secretagogues"],
+      "aliases": [
+        "MK-677",
+        "MK677",
+        "Oratrope"
+      ],
+      "categories": [
+        "gh-secretagogues"
+      ],
       "summary": "An oral, non-peptide ghrelin-receptor agonist. Included because it is discussed beside injectable secretagogues.",
       "mechanism": "It activates the ghrelin receptor and raises growth hormone and IGF-1. It is taken by mouth, so there is no vial to reconstitute.",
       "researchStatus": "Not FDA-approved. Clinical studies have explored it for growth-hormone deficiency, older adults, and other settings. It has not become an approved drug.",
@@ -170,8 +238,12 @@
     {
       "id": "retatrutide",
       "name": "Retatrutide",
-      "aliases": ["LY3437943"],
-      "categories": ["metabolic"],
+      "aliases": [
+        "LY3437943"
+      ],
+      "categories": [
+        "metabolic"
+      ],
       "summary": "An investigational agonist at the GLP-1, GIP, and glucagon receptors.",
       "mechanism": "The triple-agonist design is meant to combine incretin effects on glucose and appetite with glucagon-receptor activity. It is in development by Eli Lilly and is not an approved drug.",
       "researchStatus": "Investigational. A 2023 phase 2 trial in the New England Journal of Medicine studied once-weekly subcutaneous doses.",
@@ -183,8 +255,14 @@
     {
       "id": "semaglutide",
       "name": "Semaglutide",
-      "aliases": ["Ozempic", "Wegovy", "Rybelsus"],
-      "categories": ["metabolic"],
+      "aliases": [
+        "Ozempic",
+        "Wegovy",
+        "Rybelsus"
+      ],
+      "categories": [
+        "metabolic"
+      ],
       "summary": "A GLP-1 receptor agonist approved for type 2 diabetes and, in a separate product, chronic weight management.",
       "mechanism": "It slows gastric emptying, increases glucose-dependent insulin secretion, reduces glucagon, and reduces appetite. The oral tablet and the injections are different products.",
       "researchStatus": "FDA-approved as Ozempic, Wegovy, and Rybelsus, each with its own indication and dose schedule.",
@@ -196,8 +274,13 @@
     {
       "id": "tirzepatide",
       "name": "Tirzepatide",
-      "aliases": ["Mounjaro", "Zepbound"],
-      "categories": ["metabolic"],
+      "aliases": [
+        "Mounjaro",
+        "Zepbound"
+      ],
+      "categories": [
+        "metabolic"
+      ],
       "summary": "A dual GIP and GLP-1 receptor agonist.",
       "mechanism": "It activates both incretin receptors. Mounjaro is approved for type 2 diabetes and Zepbound for chronic weight management, among labeled uses that should be read from current prescribing information.",
       "researchStatus": "FDA-approved as branded pens. Research vials are not those products.",
@@ -209,8 +292,13 @@
     {
       "id": "liraglutide",
       "name": "Liraglutide",
-      "aliases": ["Victoza", "Saxenda"],
-      "categories": ["metabolic"],
+      "aliases": [
+        "Victoza",
+        "Saxenda"
+      ],
+      "categories": [
+        "metabolic"
+      ],
       "summary": "A daily GLP-1 receptor agonist, older than the weekly incretin drugs.",
       "mechanism": "Same incretin class as semaglutide: glucose-dependent insulin, lower glucagon, slower gastric emptying, and reduced appetite. Victoza and Saxenda are different labeled dose ranges for different indications.",
       "researchStatus": "FDA-approved. Victoza is a diabetes product. Saxenda is a weight-management product.",
@@ -222,8 +310,13 @@
     {
       "id": "cagrilintide",
       "name": "Cagrilintide",
-      "aliases": ["AM833", "CagriSema"],
-      "categories": ["metabolic"],
+      "aliases": [
+        "AM833",
+        "CagriSema"
+      ],
+      "categories": [
+        "metabolic"
+      ],
       "summary": "A long-acting amylin analog studied alone and together with semaglutide. The combination is often called CagriSema.",
       "mechanism": "Amylin agonism slows gastric emptying and reduces appetite through a different receptor from GLP-1. Combination trials pair it with semaglutide.",
       "researchStatus": "Investigational. Not FDA-approved as a single agent or as the combination.",
@@ -235,8 +328,12 @@
     {
       "id": "survodutide",
       "name": "Survodutide",
-      "aliases": ["BI 456906"],
-      "categories": ["metabolic"],
+      "aliases": [
+        "BI 456906"
+      ],
+      "categories": [
+        "metabolic"
+      ],
       "summary": "An investigational dual agonist at the GLP-1 and glucagon receptors.",
       "mechanism": "GLP-1 activity addresses appetite and glucose. Glucagon-receptor activity is being studied for energy expenditure and liver fat. It is not retatrutide and it is not tirzepatide.",
       "researchStatus": "Investigational, developed by Boehringer Ingelheim. Not FDA-approved.",
@@ -248,8 +345,12 @@
     {
       "id": "mots-c",
       "name": "MOTS-c",
-      "aliases": ["Mitochondrial open reading frame of the 12S rRNA type-c"],
-      "categories": ["metabolic"],
+      "aliases": [
+        "Mitochondrial open reading frame of the 12S rRNA type-c"
+      ],
+      "categories": [
+        "metabolic"
+      ],
       "summary": "A mitochondrial-derived peptide studied in metabolic and exercise models.",
       "mechanism": "It is encoded in mitochondrial DNA and has been studied for effects on skeletal muscle and insulin sensitivity, largely in cells and animals.",
       "researchStatus": "Preclinical and early research. Not an approved drug. Human dosing is not established.",
@@ -261,8 +362,14 @@
     {
       "id": "bpc-157",
       "name": "BPC-157",
-      "aliases": ["Body protection compound 157", "PL 14736", "Bepecin"],
-      "categories": ["healing"],
+      "aliases": [
+        "Body protection compound 157",
+        "PL 14736",
+        "Bepecin"
+      ],
+      "categories": [
+        "healing"
+      ],
       "summary": "A synthetic pentadecapeptide related to a sequence in gastric juice protein. Most evidence is preclinical.",
       "mechanism": "Animal and cell studies have explored wound, tendon, gut, and blood-vessel models. A single human mechanism is not established. Stable gastric forms and injectable forms are both discussed and are not the same evidence base.",
       "researchStatus": "Not FDA-approved. Human trials are sparse relative to the volume of animal papers and online discussion.",
@@ -274,8 +381,14 @@
     {
       "id": "tb-500",
       "name": "TB-500",
-      "aliases": ["Thymosin beta-4 fragment", "TB500", "TB4 fragment"],
-      "categories": ["healing"],
+      "aliases": [
+        "Thymosin beta-4 fragment",
+        "TB500",
+        "TB4 fragment"
+      ],
+      "categories": [
+        "healing"
+      ],
       "summary": "A name used for a synthetic fragment of thymosin beta-4. It is easy to confuse with the full protein.",
       "mechanism": "Thymosin beta-4 research, mostly preclinical, has looked at actin binding, cell migration, and wound models. The fragment sold as TB-500 is not automatically the same material or dose as full-length thymosin beta-4.",
       "researchStatus": "Not FDA-approved. Human evidence for the fragment is limited.",
@@ -287,8 +400,13 @@
     {
       "id": "ghk-cu",
       "name": "GHK-Cu",
-      "aliases": ["Copper peptide", "Glycyl-L-histidyl-L-lysine copper"],
-      "categories": ["healing"],
+      "aliases": [
+        "Copper peptide",
+        "Glycyl-L-histidyl-L-lysine copper"
+      ],
+      "categories": [
+        "healing"
+      ],
       "summary": "A copper complex of a tripeptide that occurs naturally in human plasma, studied mostly for skin.",
       "mechanism": "Laboratory and cosmetic research has looked at collagen, wound models, and antioxidant effects of the copper complex. Topical cosmetic use and injection are different claims.",
       "researchStatus": "Used in cosmetics. Not an FDA-approved injectable drug.",
@@ -300,8 +418,14 @@
     {
       "id": "kpv",
       "name": "KPV",
-      "aliases": ["Lys-Pro-Val", "alpha-MSH fragment"],
-      "categories": ["healing", "immune"],
+      "aliases": [
+        "Lys-Pro-Val",
+        "alpha-MSH fragment"
+      ],
+      "categories": [
+        "healing",
+        "immune"
+      ],
       "summary": "The C-terminal tripeptide of alpha-melanocyte-stimulating hormone, studied in inflammation models.",
       "mechanism": "Preclinical work has explored anti-inflammatory effects in gut and skin models. It does not share the pigmentary reputation of full melanocortin agonists such as melanotan II.",
       "researchStatus": "Preclinical. Not an approved drug. Human dosing is not established.",
@@ -313,8 +437,13 @@
     {
       "id": "selank",
       "name": "Selank",
-      "aliases": ["TP-7", "Selanc"],
-      "categories": ["cognitive"],
+      "aliases": [
+        "TP-7",
+        "Selanc"
+      ],
+      "categories": [
+        "cognitive"
+      ],
       "summary": "A synthetic tuftsin analog developed in Russian research and discussed for anxiety.",
       "mechanism": "It is based on the immune peptide tuftsin with an added Pro-Gly-Pro tail, and it has been studied as an intranasal anxiolytic in Russian-language clinical literature. It is not a benzodiazepine.",
       "researchStatus": "It has been registered as a medicine in Russia. It is not FDA-approved.",
@@ -326,8 +455,13 @@
     {
       "id": "semax",
       "name": "Semax",
-      "aliases": ["ACTH (4-7) PGP", "Semax nasal"],
-      "categories": ["cognitive"],
+      "aliases": [
+        "ACTH (4-7) PGP",
+        "Semax nasal"
+      ],
+      "categories": [
+        "cognitive"
+      ],
       "summary": "A synthetic analog of an ACTH fragment, developed in Russia and discussed for attention and neurologic recovery.",
       "mechanism": "It is derived from ACTH(4-10) with a Pro-Gly-Pro tail and has been studied intranasally. It is not melatonin, and it is not selank.",
       "researchStatus": "Used as a medicine in Russia for certain neurologic indications. Not FDA-approved.",
@@ -339,8 +473,15 @@
     {
       "id": "epitalon",
       "name": "Epitalon",
-      "aliases": ["Epithalon", "Epithalone", "AEDG"],
-      "categories": ["other", "sleep"],
+      "aliases": [
+        "Epithalon",
+        "Epithalone",
+        "AEDG"
+      ],
+      "categories": [
+        "other",
+        "sleep"
+      ],
       "summary": "A synthetic tetrapeptide (Ala-Glu-Asp-Gly) studied by the Khavinson group in relation to epithalamin, a pineal extract.",
       "mechanism": "Those papers discuss pineal function and, in some experiments, telomerase. Independent replication is limited. It is not melatonin.",
       "researchStatus": "Not approved as a drug in the US or the EU. Much of the human literature comes from one research network.",
@@ -352,8 +493,14 @@
     {
       "id": "bremelanotide",
       "name": "Bremelanotide",
-      "aliases": ["PT-141", "PT141", "Vyleesi"],
-      "categories": ["sexual-health"],
+      "aliases": [
+        "PT-141",
+        "PT141",
+        "Vyleesi"
+      ],
+      "categories": [
+        "sexual-health"
+      ],
       "summary": "A melanocortin receptor agonist approved for hypoactive sexual desire disorder in premenopausal women.",
       "mechanism": "It acts on melanocortin receptors in the nervous system rather than on blood vessels the way PDE5 inhibitors do. The approved population and setting are narrow.",
       "researchStatus": "FDA-approved as Vyleesi for acquired, generalized hypoactive sexual desire disorder in premenopausal women. Use in men, or for other reasons, is outside that approval.",
@@ -365,8 +512,15 @@
     {
       "id": "melanotan-ii",
       "name": "Melanotan II",
-      "aliases": ["MT-2", "MT2", "Melanotan 2"],
-      "categories": ["sexual-health", "other"],
+      "aliases": [
+        "MT-2",
+        "MT2",
+        "Melanotan 2"
+      ],
+      "categories": [
+        "sexual-health",
+        "other"
+      ],
       "summary": "An unapproved cyclic analog of alpha-melanocyte-stimulating hormone, discussed for tanning and sexual effects.",
       "mechanism": "It is a nonselective melanocortin agonist, so pigment cells, appetite, and sexual arousal can all be affected. It is not the same molecule as afamelanotide or bremelanotide.",
       "researchStatus": "Not FDA-approved. It has been sold through unregulated channels. Early academic work exists; it is not a licensed tanning drug.",
@@ -378,8 +532,14 @@
     {
       "id": "afamelanotide",
       "name": "Afamelanotide",
-      "aliases": ["Melanotan I", "Scenesse", "MT-1"],
-      "categories": ["other"],
+      "aliases": [
+        "Melanotan I",
+        "Scenesse",
+        "MT-1"
+      ],
+      "categories": [
+        "other"
+      ],
       "summary": "A linear alpha-MSH analog. The approved product is a clinician-administered implant for erythropoietic protoporphyria.",
       "mechanism": "It increases melanin and is used, under supervision, to reduce photosensitivity in erythropoietic protoporphyria. It is not melanotan II and it is not a home injectable.",
       "researchStatus": "FDA-approved as Scenesse for erythropoietic protoporphyria. The implant is placed by a trained professional.",
@@ -391,8 +551,13 @@
     {
       "id": "kisspeptin-10",
       "name": "Kisspeptin-10",
-      "aliases": ["KP-10", "Metastin 45-54"],
-      "categories": ["sexual-health"],
+      "aliases": [
+        "KP-10",
+        "Metastin 45-54"
+      ],
+      "categories": [
+        "sexual-health"
+      ],
       "summary": "A short fragment of kisspeptin, a hormone that stimulates GnRH release.",
       "mechanism": "Kisspeptin neurons drive the reproductive axis. The 10-amino-acid fragment has been used in clinical research on hormone pulses, puberty, and reproductive function.",
       "researchStatus": "An investigational and research tool. Not an FDA-approved therapeutic.",
@@ -404,8 +569,14 @@
     {
       "id": "gonadorelin",
       "name": "Gonadorelin",
-      "aliases": ["GnRH", "LHRH", "Factrel"],
-      "categories": ["sexual-health"],
+      "aliases": [
+        "GnRH",
+        "LHRH",
+        "Factrel"
+      ],
+      "categories": [
+        "sexual-health"
+      ],
       "summary": "Synthetic gonadotropin-releasing hormone, historically used as a diagnostic test of the pituitary-gonadal axis.",
       "mechanism": "A pulse of GnRH stimulates the pituitary to release LH and FSH. Continuous exposure can suppress that axis instead, which is the principle behind longer-acting GnRH analogs used in medicine. Those are different drugs.",
       "researchStatus": "Diagnostic products have been approved and some have been discontinued. It is not a do-it-yourself fertility or post-cycle protocol.",
@@ -417,8 +588,13 @@
     {
       "id": "oxytocin",
       "name": "Oxytocin",
-      "aliases": ["Pitocin"],
-      "categories": ["sexual-health", "other"],
+      "aliases": [
+        "Pitocin"
+      ],
+      "categories": [
+        "sexual-health",
+        "other"
+      ],
       "summary": "A peptide hormone used in obstetrics, and separately studied intranasally in behavioral research.",
       "mechanism": "Hospital oxytocin stimulates uterine contraction and is part of labor and delivery care. Intranasal research has looked at social behavior. Those are different uses and different products.",
       "researchStatus": "FDA-approved as an intravenous or intramuscular obstetric drug given in a monitored setting. Behavioral nasal research is not that approval.",
@@ -430,8 +606,13 @@
     {
       "id": "aod-9604",
       "name": "AOD-9604",
-      "aliases": ["AOD9604", "Tyr-hGH fragment 176-191"],
-      "categories": ["fat-loss"],
+      "aliases": [
+        "AOD9604",
+        "Tyr-hGH fragment 176-191"
+      ],
+      "categories": [
+        "fat-loss"
+      ],
       "summary": "A modified fragment of human growth hormone covering residues 176-191, studied for fat metabolism.",
       "mechanism": "The fragment was designed to keep a lipolytic region of growth hormone without the growth-promoting effects of the full hormone. Trial results did not turn it into an approved obesity drug. It is not identical to unmodified fragment 176-191.",
       "researchStatus": "Not FDA-approved. Obesity and cartilage studies exist. It has also drawn regulatory warnings when sold as a supplement.",
@@ -443,8 +624,14 @@
     {
       "id": "fragment-176-191",
       "name": "hGH fragment 176-191",
-      "aliases": ["Frag 176-191", "HGH frag", "Fragment 176"],
-      "categories": ["fat-loss"],
+      "aliases": [
+        "Frag 176-191",
+        "HGH frag",
+        "Fragment 176"
+      ],
+      "categories": [
+        "fat-loss"
+      ],
       "summary": "The unmodified C-terminal fragment of human growth hormone, residues 176 through 191.",
       "mechanism": "This region has been studied for fat-cell lipolysis without the full hormone's IGF-1 effect. AOD-9604 is a modified cousin, not the same sequence.",
       "researchStatus": "Not an approved drug. Evidence is mostly preclinical plus a thin human record.",
@@ -456,8 +643,13 @@
     {
       "id": "ll-37",
       "name": "LL-37",
-      "aliases": ["Cathelicidin", "hCAP18 fragment"],
-      "categories": ["immune"],
+      "aliases": [
+        "Cathelicidin",
+        "hCAP18 fragment"
+      ],
+      "categories": [
+        "immune"
+      ],
       "summary": "The active human cathelicidin peptide, part of innate antibacterial defense.",
       "mechanism": "It disrupts microbial membranes and also signals immune cells. It is not a simple antibiotic, and it can be proinflammatory. Research includes infection, wound, and cancer models.",
       "researchStatus": "An endogenous peptide and a research compound. Not an FDA-approved drug.",
@@ -469,8 +661,15 @@
     {
       "id": "thymosin-alpha-1",
       "name": "Thymosin alpha-1",
-      "aliases": ["Thymalfasin", "Zadaxin", "Tα1", "Ta1"],
-      "categories": ["immune"],
+      "aliases": [
+        "Thymalfasin",
+        "Zadaxin",
+        "Tα1",
+        "Ta1"
+      ],
+      "categories": [
+        "immune"
+      ],
       "summary": "A thymic peptide used in several countries as an immune modulator, including for chronic hepatitis B.",
       "mechanism": "It is thought to support T-cell and dendritic-cell function. It is not thymosin beta-4 and not TB-500.",
       "researchStatus": "Marketed as Zadaxin in a number of countries. It is not an FDA-approved drug in the United States.",
@@ -482,8 +681,13 @@
     {
       "id": "dsip",
       "name": "DSIP",
-      "aliases": ["Delta sleep-inducing peptide", "Emideltide"],
-      "categories": ["sleep"],
+      "aliases": [
+        "Delta sleep-inducing peptide",
+        "Emideltide"
+      ],
+      "categories": [
+        "sleep"
+      ],
       "summary": "A peptide isolated in sleep research in the 1970s. Later human results have been inconsistent.",
       "mechanism": "It was named for an effect on delta sleep in early animal experiments. It has not become a reliable hypnotic, and the mechanism in people is unsettled. It is not melatonin and not a benzodiazepine.",
       "researchStatus": "Experimental. Not an approved sleep medicine. Small older human studies disagree with each other.",
@@ -495,8 +699,13 @@
     {
       "id": "igf-1-lr3",
       "name": "IGF-1 LR3",
-      "aliases": ["Long R3 IGF-1", "LR3 IGF-1"],
-      "categories": ["other"],
+      "aliases": [
+        "Long R3 IGF-1",
+        "LR3 IGF-1"
+      ],
+      "categories": [
+        "other"
+      ],
       "summary": "A modified insulin-like growth factor-1 analog with longer activity than native IGF-1.",
       "mechanism": "Amino-acid changes reduce binding to IGF binding proteins, so more of the peptide stays available to the IGF-1 receptor. That also means hypoglycemia is a direct risk, as with insulin-family signaling.",
       "researchStatus": "A laboratory reagent and an unapproved drug. It is not recombinant human IGF-1 (mecasermin), which is a separate approved medicine for defined growth disorders.",
