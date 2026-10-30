@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-10-30T22:00:00Z",
+  "version": 3,
+  "updatedAt": "2026-10-30T22:10:00Z",
   "disclaimer": "Figures here are background from public labeling and research descriptions. They are not medical advice, not a dose for you, and not a protocol. Approved medicines follow their own prescribing information. Many entries are unapproved, and human dosing is often not established. Commonly discussed ranges vary; verify independently.",
   "categories": [
     {
@@ -50,22 +50,6 @@
     }
   ],
   "peptides": [
-    {
-      "id": "test-peptide",
-      "name": "Test Peptide",
-      "aliases": [],
-      "categories": [
-        "gh-secretagogues",
-        "fat-loss"
-      ],
-      "summary": "Temporary test entry to confirm remote updates work. Will be removed.",
-      "mechanism": "Test only.",
-      "researchStatus": "Test only.",
-      "dosingNotes": "Test only.",
-      "reconstitutionNotes": "Test only.",
-      "halfLifeNotes": "Test only.",
-      "safetyNotes": "Test only."
-    },
     {
       "id": "tesamorelin",
       "name": "Tesamorelin",
