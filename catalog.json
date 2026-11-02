@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-10-30T22:10:00Z",
+  "version": 4,
+  "updatedAt": "2026-11-02T14:05:44Z",
   "disclaimer": "Figures here are background from public labeling and research descriptions. They are not medical advice, not a dose for you, and not a protocol. Approved medicines follow their own prescribing information. Many entries are unapproved, and human dosing is often not established. Commonly discussed ranges vary; verify independently.",
   "categories": [
     {
@@ -85,7 +85,7 @@
       "dosingNotes": "Commonly discussed ranges vary and are often described in the hundreds of micrograms, once or more per day. Those figures are not a labeled dose. Verify independently.",
       "reconstitutionNotes": "Vials discussed in research-chemical listings are often 2 mg, 5 mg, or 10 mg. Bacteriostatic-water volumes are not standardized. This is not a reconstitution instruction.",
       "halfLifeNotes": "Commonly cited around 2 hours. Confirm in a primary source before relying on that figure. Discussions often pair it with a short-acting GHRH analog; pairing is a forum pattern, not evidence of a required schedule.",
-      "safetyNotes": "Human safety data are limited. Hunger, water retention, and tingling are commonly mentioned anecdotes, not a characterized adverse-event profile. Not medical advice."
+      "safetyNotes": "Human safety data are limited. Hunger, water retention, and tingling are commonly mentioned anecdotes, not a characterized adverse-event profile. In October 2026, a coroner in Victoria, Australia, found that a man died of anaphylaxis after self-injecting compounded CJC-1295 with ipamorelin, at double his prescribed amount, and recommended that the TGA review these peptides. One case does not measure overall risk. Not medical advice."
     },
     {
       "id": "cjc-1295-no-dac",
@@ -124,7 +124,7 @@
       "dosingNotes": "That study used single subcutaneous doses scaled to body weight. It was a pharmacology study, not a regimen to copy. Commonly discussed schedules vary; verify independently. This is not a recommendation.",
       "reconstitutionNotes": "Research vials are often discussed at 2 mg or 5 mg. Dilution volumes are not standardized. This is not a reconstitution instruction. Do not assume it is interchangeable with the no-DAC fragment.",
       "halfLifeNotes": "About 6 to 8 days in the 2006 pharmacokinetic study. Weekly or less frequent discussion follows from that long half-life, unlike Mod GRF 1-29.",
-      "safetyNotes": "Prolonged GH and IGF-1 elevation is a different risk profile from a brief pulse. The research record is small. Not medical advice."
+      "safetyNotes": "Prolonged GH and IGF-1 elevation is a different risk profile from a brief pulse. The research record is small. In October 2026, a coroner in Victoria, Australia, found that a man died of anaphylaxis after self-injecting compounded CJC-1295 with ipamorelin, at double his prescribed amount, and recommended that the TGA review these peptides. Reports did not specify the DAC or no-DAC form. One case does not measure overall risk. Not medical advice."
     },
     {
       "id": "sermorelin",
@@ -230,11 +230,11 @@
       ],
       "summary": "An investigational agonist at the GLP-1, GIP, and glucagon receptors.",
       "mechanism": "The triple-agonist design is meant to combine incretin effects on glucose and appetite with glucagon-receptor activity. It is in development by Eli Lilly and is not an approved drug.",
-      "researchStatus": "Investigational. A 2023 phase 2 trial in the New England Journal of Medicine studied once-weekly subcutaneous doses.",
+      "researchStatus": "Investigational; not FDA-approved. A 2023 phase 2 trial appeared in the New England Journal of Medicine. In 2026, Eli Lilly reported phase 3 results, including TRIUMPH-1 in obesity and TRANSCEND-T2D-2, a head-to-head trial in type 2 diabetes in which it beat semaglutide (Ozempic) on blood sugar and weight loss. Lilly has said it plans to file with regulators in early 2027.",
       "dosingNotes": "That phase 2 trial studied once-weekly doses from 1 mg up to 12 mg, with titration. Those are trial arms, not a personal regimen and not an approved dose. Verify in the paper. Commonly discussed ranges outside the trial vary.",
       "reconstitutionNotes": "There is no approved vial or pen. Research-chemical presentations and any bacteriostatic-water ratios discussed for them are not standardized and are not the trial product. This is not a reconstitution instruction.",
       "halfLifeNotes": "Trials dose it once weekly. Treat specific half-life numbers from unofficial sources as unverified.",
-      "safetyNotes": "Gastrointestinal effects are prominent in the incretin class. Heart-rate changes and other trial safety findings belong to the published papers. It is unapproved. Not medical advice."
+      "safetyNotes": "Gastrointestinal effects are prominent in the incretin class. In the 2026 head-to-head phase 3 trial, diarrhea, dysesthesia (prickling or burning skin sensations), and discontinuations for side effects were more common than with semaglutide. Heart-rate changes and other trial safety findings belong to the published papers. It is unapproved. Not medical advice."
     },
     {
       "id": "semaglutide",
@@ -303,7 +303,7 @@
       ],
       "summary": "A long-acting amylin analog studied alone and together with semaglutide. The combination is often called CagriSema.",
       "mechanism": "Amylin agonism slows gastric emptying and reduces appetite through a different receptor from GLP-1. Combination trials pair it with semaglutide.",
-      "researchStatus": "Investigational. Not FDA-approved as a single agent or as the combination.",
+      "researchStatus": "Investigational. Not FDA-approved as a single agent or as the combination. Novo Nordisk filed a New Drug Application for CagriSema for weight management in December 2025, and an FDA decision is expected in late 2026. Filing is not approval.",
       "dosingNotes": "Published trials have used once-weekly subcutaneous doses in the low milligram range, with titration. Read the trial papers for the exact arms. Commonly discussed ranges outside those papers vary; verify independently. Not a recommendation.",
       "reconstitutionNotes": "No approved presentation. Research-vial dilutions are not standardized. This is not a reconstitution instruction.",
       "halfLifeNotes": "Designed for once-weekly dosing. Use the papers rather than a forum half-life.",
@@ -320,7 +320,7 @@
       ],
       "summary": "An investigational dual agonist at the GLP-1 and glucagon receptors.",
       "mechanism": "GLP-1 activity addresses appetite and glucose. Glucagon-receptor activity is being studied for energy expenditure and liver fat. It is not retatrutide and it is not tirzepatide.",
-      "researchStatus": "Investigational, developed by Boehringer Ingelheim. Not FDA-approved.",
+      "researchStatus": "Investigational, developed by Boehringer Ingelheim. Not FDA-approved. Phase 3 SYNCHRONIZE results presented in 2026, including SYNCHRONIZE-2 in people with type 2 diabetes, showed weight loss over placebo. A separate cardiovascular outcomes trial is ongoing.",
       "dosingNotes": "Phase 2 work used once-weekly subcutaneous injections with titration. Exact arms belong in the papers. Commonly discussed ranges vary; verify independently. Not a recommendation.",
       "reconstitutionNotes": "No approved vial. Research dilutions are not standardized. This is not a reconstitution instruction.",
       "halfLifeNotes": "Trial designs use once-weekly dosing. A precise half-life should come from the sponsor's publications.",
@@ -337,7 +337,7 @@
       ],
       "summary": "A mitochondrial-derived peptide studied in metabolic and exercise models.",
       "mechanism": "It is encoded in mitochondrial DNA and has been studied for effects on skeletal muscle and insulin sensitivity, largely in cells and animals.",
-      "researchStatus": "Preclinical and early research. Not an approved drug. Human dosing is not established.",
+      "researchStatus": "Preclinical and early research. Not an approved drug. Human dosing is not established. In October 2026, HHS issued a draft, interim enforcement-discretion policy (Federal Register, Oct 30, 2026; comments through Nov 13) under which it does not intend to act against state-licensed 503A pharmacies compounding this peptide when specific conditions are met, such as identity, route, sourcing, testing, and adverse-event reporting. That is not FDA approval, not a 503A bulks-list addition, and it can be revisited.",
       "dosingNotes": "Commonly discussed ranges vary; verify independently. There is no labeled dose.",
       "reconstitutionNotes": "Vial sizes in listings vary, often 10 mg. Bacteriostatic-water volumes are not standardized. This is not a reconstitution instruction.",
       "halfLifeNotes": "Not well defined for human dosing. Do not import an animal-study interval as a schedule.",
@@ -356,7 +356,7 @@
       ],
       "summary": "A synthetic pentadecapeptide related to a sequence in gastric juice protein. Most evidence is preclinical.",
       "mechanism": "Animal and cell studies have explored wound, tendon, gut, and blood-vessel models. A single human mechanism is not established. Stable gastric forms and injectable forms are both discussed and are not the same evidence base.",
-      "researchStatus": "Not FDA-approved. Human trials are sparse relative to the volume of animal papers and online discussion.",
+      "researchStatus": "Not FDA-approved. Human trials are sparse relative to the volume of animal papers and online discussion. In October 2026, HHS issued a draft, interim enforcement-discretion policy (Federal Register, Oct 30, 2026; comments through Nov 13) under which it does not intend to act against state-licensed 503A pharmacies compounding this peptide when specific conditions are met, such as identity, route, sourcing, testing, and adverse-event reporting. That is not FDA approval, not a 503A bulks-list addition, and it can be revisited.",
       "dosingNotes": "A human dose is not established. Commonly discussed ranges vary widely, including both injection and oral amounts. Verify independently. This is not a recommendation.",
       "reconstitutionNotes": "Listings often mention 5 mg or 10 mg vials. Bacteriostatic-water volumes are not standardized. Oral products are a different presentation. This is not a reconstitution instruction.",
       "halfLifeNotes": "Thought to be short. Once- or twice-daily discussion is common and is not the same as a measured human half-life. Confirm independently.",
@@ -375,7 +375,7 @@
       ],
       "summary": "A name used for a synthetic fragment of thymosin beta-4. It is easy to confuse with the full protein.",
       "mechanism": "Thymosin beta-4 research, mostly preclinical, has looked at actin binding, cell migration, and wound models. The fragment sold as TB-500 is not automatically the same material or dose as full-length thymosin beta-4.",
-      "researchStatus": "Not FDA-approved. Human evidence for the fragment is limited.",
+      "researchStatus": "Not FDA-approved. Human evidence for the fragment is limited. In October 2026, HHS issued a draft, interim enforcement-discretion policy (Federal Register, Oct 30, 2026; comments through Nov 13) under which it does not intend to act against state-licensed 503A pharmacies compounding this peptide when specific conditions are met, such as identity, route, sourcing, testing, and adverse-event reporting. That is not FDA approval, not a 503A bulks-list addition, and it can be revisited.",
       "dosingNotes": "A human dose is not established. Commonly discussed ranges vary; verify independently. Do not copy a veterinary or animal dose.",
       "reconstitutionNotes": "Vials are often listed at 2 mg, 5 mg, or 10 mg. Dilution volumes are not standardized. This is not a reconstitution instruction.",
       "halfLifeNotes": "Not well established for the fragment in people. Weekly discussion is a forum pattern, not a measured schedule you should assume is correct.",
@@ -412,7 +412,7 @@
       ],
       "summary": "The C-terminal tripeptide of alpha-melanocyte-stimulating hormone, studied in inflammation models.",
       "mechanism": "Preclinical work has explored anti-inflammatory effects in gut and skin models. It does not share the pigmentary reputation of full melanocortin agonists such as melanotan II.",
-      "researchStatus": "Preclinical. Not an approved drug. Human dosing is not established.",
+      "researchStatus": "Preclinical. Not an approved drug. Human dosing is not established. In October 2026, HHS issued a draft, interim enforcement-discretion policy (Federal Register, Oct 30, 2026; comments through Nov 13) under which it does not intend to act against state-licensed 503A pharmacies compounding this peptide when specific conditions are met, such as identity, route, sourcing, testing, and adverse-event reporting. That is not FDA approval, not a 503A bulks-list addition, and it can be revisited.",
       "dosingNotes": "Commonly discussed ranges vary, including oral and injectable mentions. Verify independently. There is no labeled dose.",
       "reconstitutionNotes": "Vial sizes in listings vary. Dilution is not standardized. This is not a reconstitution instruction.",
       "halfLifeNotes": "Not established for a human schedule. Short peptides are often discussed as daily. That is not a measured half-life.",
@@ -448,7 +448,7 @@
       ],
       "summary": "A synthetic analog of an ACTH fragment, developed in Russia and discussed for attention and neurologic recovery.",
       "mechanism": "It is derived from ACTH(4-10) with a Pro-Gly-Pro tail and has been studied intranasally. It is not melatonin, and it is not selank.",
-      "researchStatus": "Used as a medicine in Russia for certain neurologic indications. Not FDA-approved.",
+      "researchStatus": "Used as a medicine in Russia for certain neurologic indications. Not FDA-approved. In October 2026, HHS issued a draft, interim enforcement-discretion policy (Federal Register, Oct 30, 2026; comments through Nov 13) under which it does not intend to act against state-licensed 503A pharmacies compounding this peptide when specific conditions are met, such as identity, route, sourcing, testing, and adverse-event reporting. That is not FDA approval, not a 503A bulks-list addition, and it can be revisited.",
       "dosingNotes": "Product strengths and drop regimens belong to that labeling. Commonly discussed ranges outside it vary; verify independently. Not a recommendation.",
       "reconstitutionNotes": "The established presentation is nasal drops at a labeled concentration, not a bacteriostatic-water vial. Research vials are a different product.",
       "halfLifeNotes": "Labeling describes divided daytime intranasal doses during a course, which fits a short-acting peptide. Confirm any half-life number independently.",
@@ -468,7 +468,7 @@
       ],
       "summary": "A synthetic tetrapeptide (Ala-Glu-Asp-Gly) studied by the Khavinson group in relation to epithalamin, a pineal extract.",
       "mechanism": "Those papers discuss pineal function and, in some experiments, telomerase. Independent replication is limited. It is not melatonin.",
-      "researchStatus": "Not approved as a drug in the US or the EU. Much of the human literature comes from one research network.",
+      "researchStatus": "Not approved as a drug in the US or the EU. Much of the human literature comes from one research network. In October 2026, HHS issued a draft, interim enforcement-discretion policy (Federal Register, Oct 30, 2026; comments through Nov 13) under which it does not intend to act against state-licensed 503A pharmacies compounding this peptide when specific conditions are met, such as identity, route, sourcing, testing, and adverse-event reporting. That is not FDA approval, not a 503A bulks-list addition, and it can be revisited.",
       "dosingNotes": "Commonly discussed course lengths vary, often as a short cycle rather than continuous use. A standardized human dose is not established. Verify independently. Not a recommendation.",
       "reconstitutionNotes": "Vials are often listed at 10 mg or 50 mg. Bacteriostatic-water volumes are not standardized. This is not a reconstitution instruction.",
       "halfLifeNotes": "Not well characterized. Discussion usually describes a daily injection for a limited number of days. That pattern is not a measured half-life.",
@@ -697,6 +697,25 @@
       "reconstitutionNotes": "Research vials are often listed at 0.1 mg or 1 mg, sometimes in acetic acid rather than bacteriostatic water because the peptide can be unstable. Handling notes on a chemical supplier page are not a clinical recipe.",
       "halfLifeNotes": "Longer than native IGF-1. A once-daily discussion is common and is still not an approved schedule.",
       "safetyNotes": "Hypoglycemia, edema, and the growth-promoting signal of IGF-1 are serious. This is one of the higher-risk entries in the catalog. Not medical advice."
+    },
+    {
+      "id": "efpeglenatide",
+      "name": "Efpeglenatide",
+      "aliases": [
+        "Eppe",
+        "HM11260C",
+        "LAPS-Exendin"
+      ],
+      "categories": [
+        "metabolic"
+      ],
+      "summary": "A long-acting GLP-1 receptor agonist from Hanmi Pharmaceutical, approved in South Korea in 2026 as Eppe for chronic weight management.",
+      "mechanism": "It is an exendin-4-based GLP-1 receptor agonist joined to an antibody fragment through Hanmi's LAPSCOVERY platform, which extends its duration of action. Like other GLP-1 agonists, it reduces appetite and slows gastric emptying. It is not semaglutide.",
+      "researchStatus": "Approved by South Korea's Ministry of Food and Drug Safety in October 2026 as Eppe for weight management in adults with obesity, or overweight with a weight-related condition, who do not have diabetes. Prescriptions began on October 29, 2026. A Korean phase 3 trial reported about 10% average weight loss at 40 weeks. Not FDA-approved.",
+      "dosingNotes": "Approved strengths and the titration schedule belong to the Korean labeling. Follow the prescriber and that label. This is not a dose for you and not a recommendation.",
+      "reconstitutionNotes": "The approved product is a prefilled autoinjector, not a vial for reconstitution. Research-vial versions, if any, are not the approved product. This is not a reconstitution instruction.",
+      "halfLifeNotes": "Designed for once-weekly injection. A precise half-life should come from the labeling or the sponsor's publications.",
+      "safetyNotes": "Gastrointestinal effects are expected from the GLP-1 class. Class warnings and contraindications are in the labeling. Not medical advice."
     }
   ]
 }
