@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-11-02T14:05:44Z",
+  "version": 5,
+  "updatedAt": "2026-11-09T14:11:08Z",
   "disclaimer": "Figures here are background from public labeling and research descriptions. They are not medical advice, not a dose for you, and not a protocol. Approved medicines follow their own prescribing information. Many entries are unapproved, and human dosing is often not established. Commonly discussed ranges vary; verify independently.",
   "categories": [
     {
@@ -230,7 +230,7 @@
       ],
       "summary": "An investigational agonist at the GLP-1, GIP, and glucagon receptors.",
       "mechanism": "The triple-agonist design is meant to combine incretin effects on glucose and appetite with glucagon-receptor activity. It is in development by Eli Lilly and is not an approved drug.",
-      "researchStatus": "Investigational; not FDA-approved. A 2023 phase 2 trial appeared in the New England Journal of Medicine. In 2026, Eli Lilly reported phase 3 results, including TRIUMPH-1 in obesity and TRANSCEND-T2D-2, a head-to-head trial in type 2 diabetes in which it beat semaglutide (Ozempic) on blood sugar and weight loss. Lilly has said it plans to file with regulators in early 2027.",
+      "researchStatus": "Investigational; not FDA-approved. A 2023 phase 2 trial appeared in the New England Journal of Medicine. In 2026, Eli Lilly reported phase 3 results, including TRIUMPH-1 in obesity and TRANSCEND-T2D-2, a head-to-head trial in type 2 diabetes in which it beat semaglutide (Ozempic) on blood sugar and weight loss. Lilly has said it plans to file with regulators in early 2027. In November 2026, two phase 3 trials in adults with knee osteoarthritis pain and obesity or overweight (TRIUMPH-4 and a knee-osteoarthritis analysis within TRIUMPH-1) were published in the New England Journal of Medicine and presented at ACR Convergence 2026; both reported greater reductions in knee pain and body weight than placebo. It remains unapproved.",
       "dosingNotes": "That phase 2 trial studied once-weekly doses from 1 mg up to 12 mg, with titration. Those are trial arms, not a personal regimen and not an approved dose. Verify in the paper. Commonly discussed ranges outside the trial vary.",
       "reconstitutionNotes": "There is no approved vial or pen. Research-chemical presentations and any bacteriostatic-water ratios discussed for them are not standardized and are not the trial product. This is not a reconstitution instruction.",
       "halfLifeNotes": "Trials dose it once weekly. Treat specific half-life numbers from unofficial sources as unverified.",
