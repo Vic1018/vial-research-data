@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-11-16T13:51:57Z",
+  "version": 7,
+  "updatedAt": "2026-11-16T13:59:50Z",
   "disclaimer": "Figures here are background from public labeling and research descriptions. They are not medical advice, not a dose for you, and not a protocol. Approved medicines follow their own prescribing information. Many entries are unapproved, and human dosing is often not established. Commonly discussed ranges vary; verify independently.",
   "categories": [
     {
@@ -249,8 +249,8 @@
       ],
       "summary": "A GLP-1 receptor agonist approved for type 2 diabetes and, in a separate product, chronic weight management.",
       "mechanism": "It slows gastric emptying, increases glucose-dependent insulin secretion, reduces glucagon, and reduces appetite. The oral tablet and the injections are different products.",
-      "researchStatus": "FDA-approved as Ozempic, Wegovy, and Rybelsus, each with its own indication and dose schedule.",
-      "dosingNotes": "Labeled injectable schedules are once weekly and titrated. Ozempic labeling goes up to 2 mg weekly for diabetes. Wegovy labeling goes up to 2.4 mg weekly for weight management. Rybelsus is a daily tablet with its own doses. Read the current prescribing information. Unlabeled vial doses are not those products.",
+      "researchStatus": "FDA-approved as Ozempic and Wegovy, each with its own indication and dose schedule. In the US, the oral product was rebranded from Rybelsus to Ozempic tablets in May 2026; the Rybelsus brand continues outside the US.",
+      "dosingNotes": "Labeled injectable schedules are once weekly and titrated. Ozempic labeling goes up to 2 mg weekly for diabetes. Wegovy labeling goes up to 2.4 mg weekly for weight management. The oral product (Ozempic tablets in the US, formerly Rybelsus) is a daily tablet with its own doses. Read the current prescribing information. Unlabeled vial doses are not those products.",
       "reconstitutionNotes": "Approved injections are prefilled pens, not a lyophilized vial you mix with bacteriostatic water. Ratios discussed for research vials are not standardized and are not the labeled presentation.",
       "halfLifeNotes": "About one week, which is why the injections are weekly. The oral product is still taken daily because absorption, not half-life, limits it.",
       "safetyNotes": "Labeling includes gastrointestinal effects, gallbladder disease, pancreatitis risk language, and a boxed warning about thyroid C-cell tumors from rodent data. In November 2026, FDA required all GLP-1 receptor agonist labels to add a Warnings and Precautions section on a potential increased risk of non-arteritic anterior ischemic optic neuropathy (NAION), a rare cause of sudden, painless vision loss in one eye. Not medical advice."
