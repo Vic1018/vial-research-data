@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-11-09T14:11:08Z",
+  "version": 6,
+  "updatedAt": "2026-11-16T13:51:57Z",
   "disclaimer": "Figures here are background from public labeling and research descriptions. They are not medical advice, not a dose for you, and not a protocol. Approved medicines follow their own prescribing information. Many entries are unapproved, and human dosing is often not established. Commonly discussed ranges vary; verify independently.",
   "categories": [
     {
@@ -253,7 +253,7 @@
       "dosingNotes": "Labeled injectable schedules are once weekly and titrated. Ozempic labeling goes up to 2 mg weekly for diabetes. Wegovy labeling goes up to 2.4 mg weekly for weight management. Rybelsus is a daily tablet with its own doses. Read the current prescribing information. Unlabeled vial doses are not those products.",
       "reconstitutionNotes": "Approved injections are prefilled pens, not a lyophilized vial you mix with bacteriostatic water. Ratios discussed for research vials are not standardized and are not the labeled presentation.",
       "halfLifeNotes": "About one week, which is why the injections are weekly. The oral product is still taken daily because absorption, not half-life, limits it.",
-      "safetyNotes": "Labeling includes gastrointestinal effects, gallbladder disease, pancreatitis risk language, and a boxed warning about thyroid C-cell tumors from rodent data. Not medical advice."
+      "safetyNotes": "Labeling includes gastrointestinal effects, gallbladder disease, pancreatitis risk language, and a boxed warning about thyroid C-cell tumors from rodent data. In November 2026, FDA required all GLP-1 receptor agonist labels to add a Warnings and Precautions section on a potential increased risk of non-arteritic anterior ischemic optic neuropathy (NAION), a rare cause of sudden, painless vision loss in one eye. Not medical advice."
     },
     {
       "id": "tirzepatide",
@@ -271,7 +271,7 @@
       "dosingNotes": "Labeled treatment starts at 2.5 mg once weekly and steps up. The highest labeled maintenance dose is 15 mg once weekly. That schedule is in the prescribing information and is not a suggestion to use an unapproved vial.",
       "reconstitutionNotes": "Approved product is a prefilled pen. Bacteriostatic-water ratios for lyophilized research vials are not standardized and are not the labeled pen.",
       "halfLifeNotes": "About five days. Labeling still uses once-weekly injections.",
-      "safetyNotes": "Gastrointestinal effects are common. Labeling includes gallbladder, pancreatitis, and thyroid C-cell tumor warning language similar to other incretin drugs. Not medical advice."
+      "safetyNotes": "Gastrointestinal effects are common. Labeling includes gallbladder, pancreatitis, and thyroid C-cell tumor warning language similar to other incretin drugs. In November 2026, FDA required all GLP-1 receptor agonist labels to add a Warnings and Precautions section on a potential increased risk of non-arteritic anterior ischemic optic neuropathy (NAION), a rare cause of sudden, painless vision loss in one eye. Not medical advice."
     },
     {
       "id": "liraglutide",
@@ -289,7 +289,7 @@
       "dosingNotes": "Both are once-daily injections with a titration in the prescribing information. Victoza labeling goes up to 1.8 mg daily. Saxenda labeling goes up to 3 mg daily. Those are labeled ceilings, not targets to copy from a research vial.",
       "reconstitutionNotes": "Approved product is a prefilled pen. It is not a bacteriostatic-water reconstitution.",
       "halfLifeNotes": "About 13 hours, which is why it is dosed every day rather than once a week.",
-      "safetyNotes": "Gastrointestinal effects and the class warnings on the label, including thyroid C-cell tumor language, gallbladder disease, and pancreatitis. Not medical advice."
+      "safetyNotes": "Gastrointestinal effects and the class warnings on the label, including thyroid C-cell tumor language, gallbladder disease, and pancreatitis. In November 2026, FDA required all GLP-1 receptor agonist labels to add a Warnings and Precautions section on a potential increased risk of non-arteritic anterior ischemic optic neuropathy (NAION), a rare cause of sudden, painless vision loss in one eye. Not medical advice."
     },
     {
       "id": "cagrilintide",
@@ -303,7 +303,7 @@
       ],
       "summary": "A long-acting amylin analog studied alone and together with semaglutide. The combination is often called CagriSema.",
       "mechanism": "Amylin agonism slows gastric emptying and reduces appetite through a different receptor from GLP-1. Combination trials pair it with semaglutide.",
-      "researchStatus": "Investigational. Not FDA-approved as a single agent or as the combination. Novo Nordisk filed a New Drug Application for CagriSema for weight management in December 2025, and an FDA decision is expected in late 2026. Filing is not approval.",
+      "researchStatus": "Investigational. Not FDA-approved as a single agent or as the combination. Novo Nordisk filed a New Drug Application for CagriSema for weight management in December 2025, and an FDA decision is expected in late 2026. In November 2026, full results of the phase 3 REDEFINE 9 trial of lower CagriSema doses were presented at ObesityWeek and published in The Lancet Diabetes & Endocrinology, reporting greater weight loss than placebo. As of mid-November 2026, no FDA decision had been announced. Filing is not approval.",
       "dosingNotes": "Published trials have used once-weekly subcutaneous doses in the low milligram range, with titration. Read the trial papers for the exact arms. Commonly discussed ranges outside those papers vary; verify independently. Not a recommendation.",
       "reconstitutionNotes": "No approved presentation. Research-vial dilutions are not standardized. This is not a reconstitution instruction.",
       "halfLifeNotes": "Designed for once-weekly dosing. Use the papers rather than a forum half-life.",
@@ -320,11 +320,11 @@
       ],
       "summary": "An investigational dual agonist at the GLP-1 and glucagon receptors.",
       "mechanism": "GLP-1 activity addresses appetite and glucose. Glucagon-receptor activity is being studied for energy expenditure and liver fat. It is not retatrutide and it is not tirzepatide.",
-      "researchStatus": "Investigational, developed by Boehringer Ingelheim. Not FDA-approved. Phase 3 SYNCHRONIZE results presented in 2026, including SYNCHRONIZE-2 in people with type 2 diabetes, showed weight loss over placebo. A separate cardiovascular outcomes trial is ongoing.",
+      "researchStatus": "Investigational, developed by Boehringer Ingelheim. Not FDA-approved. Phase 3 SYNCHRONIZE results presented in 2026, including SYNCHRONIZE-2 in people with type 2 diabetes, showed weight loss over placebo. In November 2026, the phase 3 SYNCHRONIZE-CVOT cardiovascular safety trial was presented at the American Heart Association meeting and published in The Lancet; it met its primary endpoint, showing no increase in major adverse cardiovascular events versus placebo. Boehringer Ingelheim has said it is preparing regulatory submissions. It remains unapproved.",
       "dosingNotes": "Phase 2 work used once-weekly subcutaneous injections with titration. Exact arms belong in the papers. Commonly discussed ranges vary; verify independently. Not a recommendation.",
       "reconstitutionNotes": "No approved vial. Research dilutions are not standardized. This is not a reconstitution instruction.",
       "halfLifeNotes": "Trial designs use once-weekly dosing. A precise half-life should come from the sponsor's publications.",
-      "safetyNotes": "Gastrointestinal effects and heart-rate findings have been reported in trial coverage. Unapproved. Not medical advice."
+      "safetyNotes": "Gastrointestinal effects and heart-rate findings have been reported in trial coverage. In SYNCHRONIZE-CVOT, nausea and vomiting were much more common than with placebo, and about one in five participants on survodutide stopped treatment because of gastrointestinal side effects. Unapproved. Not medical advice."
     },
     {
       "id": "mots-c",
